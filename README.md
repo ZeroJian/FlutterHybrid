@@ -1,4 +1,8 @@
-###FlutterHybrid
+
+
+### FlutterHybrid
+
+[开发指南](https://github.com/ZeroJian/FlutterHybrid/tree/master/开发指南)
 
 产物集成方式集成 Flutter 项目
 
