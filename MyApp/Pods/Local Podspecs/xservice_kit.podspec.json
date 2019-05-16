@@ -1,0 +1,27 @@
+{
+  "name": "xservice_kit",
+  "version": "0.0.1",
+  "summary": "A plutter plugin helps build scalable plugin",
+  "description": "A plutter plugin helps build scalable plugin",
+  "homepage": "http://example.com",
+  "license": {
+    "file": "../LICENSE"
+  },
+  "authors": {
+    "Your Company": "email@example.com"
+  },
+  "source": {
+    "path": "."
+  },
+  "source_files": "xservice_kit/**/*.{h,m,mm}",
+  "public_header_files": "xservice_kit/**/*.h",
+  "requires_arc": true,
+  "dependencies": {
+    "MyFlutterSDK": [
+
+    ]
+  },
+  "platforms": {
+    "ios": "8.0"
+  }
+}

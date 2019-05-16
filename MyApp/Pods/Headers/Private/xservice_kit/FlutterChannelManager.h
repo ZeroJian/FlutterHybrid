@@ -1,0 +1,1 @@
+../../../../../xservice_kit/xservice_kit/Message/FlutterChannelManager.h

@@ -1,0 +1,37 @@
+PODS:
+  - flutter_boost (0.0.1):
+    - MyFlutterSDK
+    - xservice_kit
+  - FlutterPluginRegistrant (1.0.0):
+    - flutter_boost
+    - MyFlutterSDK
+    - xservice_kit
+  - MyFlutterSDK (1.0.0)
+  - xservice_kit (0.0.1):
+    - MyFlutterSDK
+
+DEPENDENCIES:
+  - flutter_boost (from `../flutter_boost`)
+  - FlutterPluginRegistrant (from `../FlutterPluginRegistrant`)
+  - MyFlutterSDK (from `../MyFlutterSDK`)
+  - xservice_kit (from `../xservice_kit`)
+
+EXTERNAL SOURCES:
+  flutter_boost:
+    :path: "../flutter_boost"
+  FlutterPluginRegistrant:
+    :path: "../FlutterPluginRegistrant"
+  MyFlutterSDK:
+    :path: "../MyFlutterSDK"
+  xservice_kit:
+    :path: "../xservice_kit"
+
+SPEC CHECKSUMS:
+  flutter_boost: 2581f86e34a8213b38e03bf8b4b4203ef937fa90
+  FlutterPluginRegistrant: 3503a99220fdad444e1f5d9ba207ac2eaa66f6b7
+  MyFlutterSDK: 5bfd23db660c879ceb38399e3a9de70063355eb9
+  xservice_kit: edff528cffc5eb7c4decedc94e68405af3169532
+
+PODFILE CHECKSUM: e822e39be3bfa5af8fb7c4eff008930e27d5b5d8
+
+COCOAPODS: 1.6.1

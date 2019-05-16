@@ -1,0 +1,15 @@
+# source 'git@code.yaheng.cn:ios/publibrary/YHPodsRepo.git'
+
+# Flutter
+def flutter
+
+       pod 'MyFlutterSDK', :path => '../MyFlutterSDK'
+       pod 'FlutterPluginRegistrant', :path => '../FlutterPluginRegistrant'
+       pod 'flutter_boost', :path => '../flutter_boost'
+       pod 'xservice_kit', :path => '../xservice_kit'
+end
+
+target 'MyApp' do
+    platform :ios, '9.0'
+    flutter
+end

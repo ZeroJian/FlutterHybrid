@@ -1,0 +1,25 @@
+{
+  "name": "MyFlutterSDK",
+  "version": "1.0.0",
+  "summary": "Flutter 产物 pod",
+  "description": "Flutter 产物 sdk, 包含 App.framework, Flutter.framework.",
+  "homepage": "https://github.com/ZeroJian/XBFlutterSDK",
+  "license": {
+    "type": "MIT"
+  },
+  "authors": {
+    "ZeroJian": "zj17223412@outlook.com"
+  },
+  "source": {
+    "git": "https://github.com/ZeroJian/MyFlutterSDK.git",
+    "tag": "1.0.0"
+  },
+  "requires_arc": true,
+  "vendored_frameworks": "MyFlutterSDK/**/*.{framework}",
+  "platforms": {
+    "osx": null,
+    "ios": null,
+    "tvos": null,
+    "watchos": null
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "name": "flutter_boost",
+  "version": "0.0.1",
+  "summary": "A new Flutter plugin make flutter better to use!",
+  "description": "A new Flutter plugin make flutter better to use!",
+  "homepage": "http://example.com",
+  "license": {
+    "file": "../LICENSE.md"
+  },
+  "authors": {
+    "Alibaba Xianyu": "email@example.com"
+  },
+  "source": {
+    "path": "."
+  },
+  "source_files": "flutter_boost/**/*.{h,m,mm}",
+  "public_header_files": [
+    "flutter_boost/Boost/FlutterBoost.h",
+    "flutter_boost/Boost/FlutterBoostPlugin.h",
+    "flutter_boost/Boost/FLBPlatform.h",
+    "flutter_boost/Boost/FLBFlutterAppDelegate.h",
+    "flutter_boost/Container/FLBFlutterViewContainer.h",
+    "flutter_boost/Container/FLBViewControllerResultHandler.h"
+  ],
+  "dependencies": {
+    "MyFlutterSDK": [
+
+    ],
+    "xservice_kit": [
+
+    ]
+  },
+  "requires_arc": true,
+  "libraries": "c++",
+  "platforms": {
+    "ios": "8.0"
+  }
+}

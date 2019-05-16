@@ -1,0 +1,1 @@
+../../../../../FlutterPluginRegistrant/FlutterPluginRegistrant/GeneratedPluginRegistrant.h
