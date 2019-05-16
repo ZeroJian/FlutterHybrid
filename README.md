@@ -2,7 +2,7 @@
 
 ### FlutterHybrid
 
-[开发指南](https://github.com/ZeroJian/FlutterHybrid/tree/master/开发指南)
+[开发指南](https://github.com/ZeroJian/FlutterHybrid/blob/master/%E5%BC%80%E5%8F%91%E6%8C%87%E5%8D%97.md)
 
 产物集成方式集成 Flutter 项目
 
